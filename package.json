@@ -1,6 +1,6 @@
 {
-  "name": "techan",
-  "version": "0.9.0-0",
+  "name": "@oskarer/techan",
+  "version": "0.9.0",
   "description": "A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.",
   "keywords": [
     "technical analysis",
@@ -24,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/andredumas/techan.js.git"
   },
-  "license" : "MIT",
+  "license": "MIT",
   "dependencies": {
     "d3": "~4.2.6"
   },
